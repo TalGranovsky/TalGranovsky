@@ -1,11 +1,14 @@
-Hi
+Hi,
 
 I'm Tal **COO @ Northstar** | AI Engineer | Based in Israel 
 
 ---
 
-## Stack
-Next.js • PostgreSQL • Claude Sonnet 4.5 • Vercel • Firecrawl • Serper • Google Postmaster Tools
+##Quick background
+
+**Microsoft for Startups — Member**
+Hands-on AI craft — LoRA training, prompt engineering, ComfyUI workflows — paired with full-stack engineering. Built custom AI tooling for creative work, clips, and music production.
+Lectured at Tel-Aviv University & Microsoft Reactor.
 
 ---
 
