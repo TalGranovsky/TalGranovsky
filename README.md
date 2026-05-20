@@ -1,4 +1,4 @@
-# <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/56f05012-b884-4f52-967e-257fe5d8dc40" /> Hey there!
+Hi
 
 I'm Tal **COO @ Northstar** | AI Engineer | Based in Israel 
 
