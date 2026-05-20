@@ -1,6 +1,6 @@
-Hi,
+Hi, I'm Tal
 
-I'm Tal **COO @ Northstar** | AI Engineer | Based in Israel 
+ **COO @ Northstar** | AI Engineer | Based in Israel 
 
 ---
 
