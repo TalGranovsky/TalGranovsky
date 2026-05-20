@@ -1,16 +1,16 @@
-## Hi there 👋
+# <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/56f05012-b884-4f52-967e-257fe5d8dc40" /> Hey there!
 
-<!--
-**TalGranovsky/TalGranovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tal **COO @ Northstar** | AI Engineer | Based in Israel 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+Next.js • PostgreSQL • Claude Sonnet 4.5 • Vercel • Firecrawl • Serper • Google Postmaster Tools
+
+---
+
+## Let's connect
+📧 Email: Outlook will soon be available.
+🔗 [LinkedIn](https://linkedin.com/in/tal-granovsky)
+
+---
