@@ -7,7 +7,7 @@ Hi, I'm Tal
 **Quick background**
 
 **Microsoft for Startups — Member**
-Hands-on AI craft — LoRA training, prompt engineering, ComfyUI workflows — paired with full-stack engineering. Built custom AI tooling for creative work, clips, and music production.
+With hands-on AI craft — LoRA training, prompt engineering, ComfyUI workflows — paired with full-stack engineering. Built custom AI tooling for creative work, clips, and music production.
 Lectured at Tel-Aviv University & Microsoft Reactor.
 
 ---
